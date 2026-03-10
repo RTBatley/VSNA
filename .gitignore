@@ -1,0 +1,11 @@
+.output/
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+venv/
+.DS_Store
+*.npz
+*.png
+*.csv
